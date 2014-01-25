@@ -542,7 +542,6 @@ config FB_MSM_LCDC_HIMAX_WVGA_PT_PANEL
 	depends on FB_MSM_LCDC_HW
 	bool "LCDC HIMAX WVGA PT Panel"
 	select FB_MSM_LCDC_HIMAX_WVGA_PT
-	default n
 	---help---
 	  Support for LCDC HIMAX WVGA PT (480x800) panel. This
 	  configuration has to be selected to support the HIMAX
