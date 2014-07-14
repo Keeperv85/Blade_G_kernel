@@ -18,6 +18,7 @@
 #include <linux/init.h>
 #include <linux/irq.h>
 #include <linux/notifier.h>
+#include <mach/kgsl.h>
 #include <mach/irqs.h>
 #include <mach/msm_iomap.h>
 #include <mach/board.h>
